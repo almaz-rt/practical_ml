@@ -1,2 +1,2 @@
-# practical_ml
+# sfml
 Курс Практический Machine Learning
